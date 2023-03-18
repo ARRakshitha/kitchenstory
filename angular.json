@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "kitchenstory"
+    }
+  },
+  "defaultProject": "kitchenstory",
+  "cli": {
+    "analytics": "725563b2-9bd8-4ff1-9106-e60c6bbf3431"
+  }
 }
